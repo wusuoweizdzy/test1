@@ -2,7 +2,7 @@ package NUAA;
 
 import org.apache.commons.lang3.RandomUtils;
 public class score {
-    int s = RandomUtils.nextInt()%101;
+    public int s = RandomUtils.nextInt()%101;
 
     public void setS(int s) {
         this.s = s;
