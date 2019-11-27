@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -35,7 +38,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +52,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -74,8 +80,8 @@
   <component name="RunManager" selected="JUnit.scoreTest1">
     <configuration name="scoreTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
-      <option name="PACKAGE_NAME" value="NUAA" />
-      <option name="MAIN_CLASS_NAME" value="NUAA.scoreTest1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="scoreTest1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,8 +89,8 @@
     </configuration>
     <configuration name="scoreTest1.maintest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
-      <option name="PACKAGE_NAME" value="NUAA" />
-      <option name="MAIN_CLASS_NAME" value="NUAA.scoreTest1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="scoreTest1" />
       <option name="METHOD_NAME" value="maintest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -93,8 +99,8 @@
     </configuration>
     <configuration name="scoreTest1.scoretest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
-      <option name="PACKAGE_NAME" value="NUAA" />
-      <option name="MAIN_CLASS_NAME" value="NUAA.scoreTest1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="scoreTest1" />
       <option name="METHOD_NAME" value="scoretest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -103,8 +109,8 @@
     </configuration>
     <configuration name="scoreTest1.scoretest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
-      <option name="PACKAGE_NAME" value="NUAA" />
-      <option name="MAIN_CLASS_NAME" value="NUAA.scoreTest1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="scoreTest1" />
       <option name="METHOD_NAME" value="scoretest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -146,11 +152,23 @@
       <workItem from="1573874812907" duration="9000" />
       <workItem from="1573876712918" duration="38000" />
       <workItem from="1574850390830" duration="4025000" />
+      <workItem from="1574859762849" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test1$scoreTest1.ic" NAME="scoreTest1 Coverage Results" MODIFIED="1574850652325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
