@@ -29,6 +29,11 @@
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1T5vVn29yyjwnblRSUUMphXQoRh" />
   <component name="PropertiesComponent">
@@ -153,6 +158,8 @@
       <workItem from="1573876712918" duration="38000" />
       <workItem from="1574850390830" duration="4025000" />
       <workItem from="1574859762849" duration="266000" />
+      <workItem from="1574909684937" duration="85000" />
+      <workItem from="1574921303713" duration="662000" />
     </task>
     <servers />
   </component>
@@ -164,13 +171,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test1$scoreTest1.ic" NAME="scoreTest1 Coverage Results" MODIFIED="1574850652325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/test1$scoreTest1.ic" NAME="scoreTest1 Coverage Results" MODIFIED="1574909732057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
